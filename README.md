@@ -11,7 +11,9 @@ Aqui estão organizadas as práticas realizadas durante cursos, disciplinas e ca
 </p>
 
 <br>
+
 ---
+
 <div align="center">
 Desenvolvido por NoG0at.
 </div>
